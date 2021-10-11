@@ -44,6 +44,13 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 
 > You Can Upload Coded Projects In the Codes Directory 
 
+Via Git:
+1. Fork this repository
+2. Clone the fork into your local system ``git clone <url of fork>``
+3. Make necessary changes
+4. Commit and Push changes to your fork
+5. Create a Pull Request 
+
 ## 🔥 What will happen after my contribution?
 
 I have created a simple page to display all contributors list [here](https://hctnm2.github.io/Beginner-Hacktoberfest/), your name should appear shortly after the pull request is merged.
@@ -74,4 +81,9 @@ I have created a simple page to display all contributors list [here](https://hct
 
 **Do ⭐ the repo if you find it useful!!** ☺😇☺ 
 
+## Instructions to execute bash scripts
+- open a Command Line Interface (CLI) in the same directory as bash files
+- Use `` bash <file name>.sh `` to run them
 
+## To create your own Bash Files
+- create a file with ``.sh`` extension
